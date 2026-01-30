@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "0a3b2470-ccbd-4b3e-a124-fcba1ad74bd3",
+    "name": "test",
+    "email": "test@example.com",
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "createdAt": "2026-01-30T09:57:41.658Z"
+  },
+  {
+    "_id": "e2417c92-6de4-473a-b463-85c10fcf46e4",
+    "name": "ghfvcvjg",
+    "email": "133@gmail.com",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "createdAt": "2026-01-30T09:59:34.726Z"
+  },
+  {
+    "_id": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "name": "Bittu kumar singh",
+    "email": "bittukumarsingh2612801@gmail.com",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "createdAt": "2026-01-30T09:59:57.406Z"
+  },
+  {
+    "_id": "bc549d28-94e3-4bae-9139-fc39805efe1e",
+    "name": "Bittu kumar singh",
+    "email": "123@gmail.com",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "createdAt": "2026-01-30T10:54:11.455Z"
+  }
+]

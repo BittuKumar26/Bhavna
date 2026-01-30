@@ -1,0 +1,25 @@
+/* Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+  color: #333;
+}
+
+:root {
+  --calm: #4CAF50;
+  --happy: #FFD700;
+  --energetic: #FF6B6B;
+  --irritated: #FF9800;
+  --sad: #2196F3;
+  --depressed: #9C27B0;
+  --low-energy: #9E9E9E;
+  --anxious: #F44336;
+  --anger: #D32F2F;
+}

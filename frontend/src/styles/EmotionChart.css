@@ -1,0 +1,18 @@
+/* Chart Styles */
+.chart-container {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
+}
+
+.chart-container p {
+  text-align: center;
+  color: #999;
+  padding: 40px 20px;
+}
+
+svg {
+  font-family: inherit;
+}

@@ -1,0 +1,446 @@
+[
+  {
+    "_id": "5f39fca1-9683-4659-a56a-6b833da53efe",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "i am happy and anxious",
+    "emotion": "happy",
+    "suggestions": [
+      "dancing",
+      "gym",
+      "team sports",
+      "cycling",
+      "running",
+      "travelling"
+    ],
+    "intensity": 5,
+    "timestamp": "2026-01-30T10:00:10.921Z"
+  },
+  {
+    "_id": "fe6fa3b8-edf3-4228-ae87-d0b3207ed72a",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I am angry and mad, I am feeling anxious as well. Why did we not go there toay!!",
+    "emotion": "anger",
+    "suggestions": [
+      "gym",
+      "running",
+      "boxing",
+      "cycling",
+      "breathing exercises",
+      "journaling"
+    ],
+    "intensity": 5,
+    "timestamp": "2026-01-30T10:01:11.002Z"
+  },
+  {
+    "_id": "fb9fff6a-7599-4c22-9f76-3f6a70582dc9",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "She left me",
+    "emotion": "calm",
+    "suggestions": [
+      "meditation",
+      "breathing exercises",
+      "journaling",
+      "walking",
+      "swimming"
+    ],
+    "intensity": 5,
+    "timestamp": "2026-01-30T10:02:01.546Z"
+  },
+  {
+    "_id": "cef530a8-aa7f-4406-a5a7-a8f20d4ba078",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "we broke up",
+    "emotion": "calm",
+    "suggestions": [
+      "meditation",
+      "breathing exercises",
+      "journaling",
+      "walking",
+      "swimming"
+    ],
+    "intensity": 5,
+    "timestamp": "2026-01-30T10:02:12.562Z"
+  },
+  {
+    "_id": "ac816d0e-2710-47bf-a049-0707b2168fb4",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "she left me",
+    "emotion": "calm",
+    "suggestions": [
+      "meditation",
+      "breathing exercises",
+      "journaling",
+      "walking",
+      "swimming"
+    ],
+    "intensity": 5,
+    "timestamp": "2026-01-30T10:08:03.918Z"
+  },
+  {
+    "_id": "d2c5dc6a-e599-485f-bfcd-1317c7dfea5c",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I have racing thoughts",
+    "emotion": "calm",
+    "suggestions": [
+      "meditation",
+      "breathing exercises",
+      "journaling",
+      "walking",
+      "swimming"
+    ],
+    "timestamp": "2026-01-30T10:13:35.435Z"
+  },
+  {
+    "_id": "37d8cec7-a872-4ba0-94c0-328760beabee",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I lost my phone",
+    "emotion": "depressed",
+    "suggestions": [
+      "journaling",
+      "meditation",
+      "walking",
+      "breathing exercises",
+      "team sports",
+      "seek professional help"
+    ],
+    "timestamp": "2026-01-30T10:26:08.554Z"
+  },
+  {
+    "_id": "1414b6a3-27d3-48fd-9532-60688d61c2fb",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I got placed",
+    "emotion": "calm",
+    "suggestions": [
+      "meditation",
+      "breathing exercises",
+      "journaling",
+      "walking",
+      "swimming"
+    ],
+    "timestamp": "2026-01-30T10:26:21.995Z"
+  },
+  {
+    "_id": "571e1299-e74f-42ed-8580-73f498f71285",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I got a job today",
+    "emotion": "calm",
+    "suggestions": [
+      "meditation",
+      "breathing exercises",
+      "journaling",
+      "walking",
+      "swimming"
+    ],
+    "timestamp": "2026-01-30T10:26:49.967Z"
+  },
+  {
+    "_id": "b8941eae-2492-445a-b0b2-8c5a7a52bc1f",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I lost my pet",
+    "emotion": "depressed",
+    "suggestions": [
+      "journaling",
+      "meditation",
+      "walking",
+      "breathing exercises",
+      "team sports",
+      "seek professional help"
+    ],
+    "timestamp": "2026-01-30T10:27:23.035Z"
+  },
+  {
+    "_id": "7ff5d2fa-304f-4e10-bf21-7bab5028849e",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I won the lottery",
+    "emotion": "calm",
+    "suggestions": [
+      "meditation",
+      "breathing exercises",
+      "journaling",
+      "walking",
+      "swimming"
+    ],
+    "timestamp": "2026-01-30T10:27:43.468Z"
+  },
+  {
+    "_id": "1ac7d0a1-03c9-4366-89b4-22d0e5233e54",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I did not getr the job I worked so hard for",
+    "emotion": "calm",
+    "suggestions": [
+      "meditation",
+      "breathing exercises",
+      "journaling",
+      "walking",
+      "swimming"
+    ],
+    "timestamp": "2026-01-30T10:28:12.629Z"
+  },
+  {
+    "_id": "8396c86e-e87f-455c-8d4e-c55f3ed08f8c",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I did not get the job I worked so hard for!",
+    "emotion": "calm",
+    "suggestions": [
+      "meditation",
+      "breathing exercises",
+      "journaling",
+      "walking",
+      "swimming"
+    ],
+    "timestamp": "2026-01-30T10:28:52.694Z"
+  },
+  {
+    "_id": "6c8ab9d5-31ee-4f91-b7b8-b57454428df7",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I am happy to tell u that I got placed\n",
+    "emotion": "happy",
+    "emotions": [
+      {
+        "emotion": "happy",
+        "score": 1,
+        "confidence": 20
+      }
+    ],
+    "confidence": 20,
+    "suggestions": [
+      "dancing",
+      "gym",
+      "team sports",
+      "cycling",
+      "running",
+      "travelling"
+    ],
+    "timestamp": "2026-01-30T10:41:26.767Z"
+  },
+  {
+    "_id": "ff88aed5-1d03-460d-981d-7206cd2fa768",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "We broke up today",
+    "emotion": "calm",
+    "emotions": [],
+    "confidence": 0,
+    "suggestions": [
+      "meditation",
+      "breathing exercises",
+      "journaling",
+      "walking",
+      "swimming"
+    ],
+    "timestamp": "2026-01-30T10:41:40.732Z"
+  },
+  {
+    "_id": "b66fde10-69c5-484c-be31-f48d5837a4a4",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "My teacher scolded me today",
+    "emotion": "calm",
+    "emotions": [],
+    "confidence": 0,
+    "suggestions": [
+      "meditation",
+      "breathing exercises",
+      "journaling",
+      "walking",
+      "swimming"
+    ],
+    "timestamp": "2026-01-30T10:41:54.297Z"
+  },
+  {
+    "_id": "8d473d7b-6ebc-4c83-9944-6acfc4715013",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I lost my phone today and I am  very sad ",
+    "emotion": "sad",
+    "emotions": [
+      {
+        "emotion": "sad",
+        "score": 4,
+        "confidence": 80
+      },
+      {
+        "emotion": "depressed",
+        "score": 1,
+        "confidence": 20
+      }
+    ],
+    "confidence": 80,
+    "suggestions": [
+      "journaling",
+      "meditation",
+      "walking",
+      "team sports",
+      "talking with friends",
+      "travelling"
+    ],
+    "timestamp": "2026-01-30T10:43:15.293Z"
+  },
+  {
+    "_id": "467c1e23-632c-48d3-b0fd-3bc4de4f380c",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I lost my phone today",
+    "emotion": "depressed",
+    "emotions": [
+      {
+        "emotion": "depressed",
+        "score": 1,
+        "confidence": 20
+      }
+    ],
+    "confidence": 20,
+    "suggestions": [
+      "journaling",
+      "meditation",
+      "walking",
+      "breathing exercises",
+      "team sports",
+      "seek professional help"
+    ],
+    "timestamp": "2026-01-30T10:43:34.622Z"
+  },
+  {
+    "_id": "8666515e-2bc6-4463-990a-cd6d9e002c52",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I lost my pet",
+    "emotion": "depressed",
+    "emotions": [
+      {
+        "emotion": "depressed",
+        "score": 1,
+        "confidence": 20
+      }
+    ],
+    "confidence": 20,
+    "suggestions": [
+      "journaling",
+      "meditation",
+      "walking",
+      "breathing exercises",
+      "team sports",
+      "seek professional help"
+    ],
+    "timestamp": "2026-01-30T10:43:39.665Z"
+  },
+  {
+    "_id": "7759ef47-f5e0-4d8c-8d5f-7baafd25d6b9",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I got placed",
+    "emotion": "calm",
+    "emotions": [],
+    "confidence": 0,
+    "suggestions": [
+      "meditation",
+      "breathing exercises",
+      "journaling",
+      "walking",
+      "swimming"
+    ],
+    "timestamp": "2026-01-30T10:43:51.233Z"
+  },
+  {
+    "_id": "b3511745-5427-49b3-858e-e5366f40117b",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I had a lovely morning",
+    "emotion": "happy",
+    "emotions": [
+      {
+        "emotion": "happy",
+        "score": 1,
+        "confidence": 20
+      }
+    ],
+    "confidence": 20,
+    "suggestions": [
+      "dancing",
+      "gym",
+      "team sports",
+      "cycling",
+      "running",
+      "travelling"
+    ],
+    "timestamp": "2026-01-30T10:44:11.227Z"
+  },
+  {
+    "_id": "bb8f7dda-3950-4bfc-b3fe-d52fd69ccd9d",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I ate good breakfast today\n",
+    "emotion": "happy",
+    "emotions": [
+      {
+        "emotion": "happy",
+        "score": 2,
+        "confidence": 45
+      }
+    ],
+    "confidence": 45,
+    "suggestions": [
+      "dancing",
+      "gym",
+      "team sports",
+      "cycling",
+      "running",
+      "travelling"
+    ],
+    "timestamp": "2026-01-30T10:44:35.061Z"
+  },
+  {
+    "_id": "6514e978-71bb-4377-88cc-50528678b589",
+    "userId": "a95889fc-5766-416c-a5d5-4ac13ae65482",
+    "text": "I had racing thoughts becoz I lost my phone",
+    "emotion": "depressed",
+    "emotions": [
+      {
+        "emotion": "depressed",
+        "score": 1,
+        "confidence": 20
+      }
+    ],
+    "confidence": 20,
+    "suggestions": [
+      "journaling",
+      "meditation",
+      "walking",
+      "breathing exercises",
+      "team sports",
+      "seek professional help"
+    ],
+    "timestamp": "2026-01-30T10:45:03.563Z"
+  },
+  {
+    "_id": "4ae220d0-61d0-4fe1-a015-22dca0605244",
+    "userId": "bc549d28-94e3-4bae-9139-fc39805efe1e",
+    "text": "I lost my pet",
+    "emotion": "depressed",
+    "emotions": [
+      {
+        "emotion": "depressed",
+        "score": 1,
+        "confidence": 20
+      }
+    ],
+    "confidence": 20,
+    "suggestions": [
+      "journaling",
+      "meditation",
+      "walking",
+      "breathing exercises",
+      "team sports",
+      "seek professional help"
+    ],
+    "timestamp": "2026-01-30T10:54:52.300Z"
+  },
+  {
+    "_id": "0cc33fd5-b26b-49e4-8942-a2989bc60ec9",
+    "userId": "bc549d28-94e3-4bae-9139-fc39805efe1e",
+    "text": "I went for  a morning walk today",
+    "emotion": "calm",
+    "emotions": [],
+    "confidence": 0,
+    "suggestions": [
+      "meditation",
+      "breathing exercises",
+      "journaling",
+      "walking",
+      "swimming"
+    ],
+    "timestamp": "2026-01-30T10:55:22.031Z"
+  }
+]
